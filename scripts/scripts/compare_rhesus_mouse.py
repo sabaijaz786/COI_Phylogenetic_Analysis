@@ -1,0 +1,31 @@
+from Bio import SeqIO
+
+rhesus = SeqIO.read(
+    "data/rhesus_macaque_COI.fasta",
+    "fasta"
+)
+
+mouse = SeqIO.read(
+    "data/mouse_COI.fasta",
+    "fasta"
+)
+
+print("Rhesus macaque COI length:", len(rhesus.seq))
+print("Mouse COI length:", len(mouse.seq))
+
+comparison_length = min(len(rhesus.seq), len(mouse.seq))
+
+differences = 0
+
+for base1, base2 in zip(
+    rhesus.seq[:comparison_length],
+    mouse.seq[:comparison_length]
+):
+    if base1 != base2:
+        differences += 1
+
+difference_percent = (differences / comparison_length) * 100
+
+print("Comparison length:", comparison_length)
+print("Number of nucleotide differences:", differences)
+print(f"Percentage difference: {difference_percent:.2f}%")

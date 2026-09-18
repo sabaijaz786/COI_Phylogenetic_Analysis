@@ -1,0 +1,232 @@
+Project title
+Comparative Analysis of Mitochondrial COI Sequences to Investigate Evolutionary Relationships Among Selected Mammals
+
+Research question
+Can mitochondrial COI DNA sequence variation be used to reconstruct evolutionary relationships among selected mammalian species?
+1. Background
+
+2. Research Question
+
+3. Objectives
+
+4. Dataset
+
+5. Methods
+
+6. Results
+1. Nucleotide Composition of COI Sequences
+
+Homo sapiens
+
+Sequence length: 1542 bp
+A: 419 (27.17%)
+T: 410 (26.59%)
+G: 250 (16.21%)
+C: 463 (30.03%)
+GC content: 46.24%
+
+Pan troglodytes
+
+Sequence length: 1542 bp
+A: 413 (26.78%)
+T: 420 (27.24%)
+G: 256 (16.60%)
+C: 453 (29.38%)
+GC content: 45.98%
+
+Gorilla gorilla
+
+Sequence length: 1551 bp
+A: 428 (27.60%)
+T: 439 (28.30%)
+G: 246 (15.86%)
+C: 438 (28.24%)
+GC content: 44.10%
+
+Pongo abelii
+
+Sequence length: 1543 bp
+A: 409 (26.51%)
+T: 402 (26.05%)
+G: 251 (16.27%)
+C: 481 (31.17%)
+GC content: 47.44%
+
+Rhesus macaque (Macaca mulatta)
+
+Sequence length: 1569 bp
+A: 411 (26.20%)
+T: 457 (29.13%)
+G: 262 (16.70%)
+C: 439 (27.98%)
+GC content: 44.68%
+
+Species: Mus musculus
+Gene: COI
+Sequence length: 1545
+
+A: 456 (29.51%)
+T: 473 (30.61%)
+G: 249 (16.12%)
+C: 367 (23.75%)
+GC content: 39.87%
+
+2. Pairwise Comparison of Human and Chimpanzee COI Sequences
+
+Human COI length: 1542 bp
+Chimpanzee COI length: 1542 bp
+Identical nucleotide positions: 1408
+Different nucleotide positions: 134
+Percentage difference: 8.69%
+
+Pairwise Comparison of Human and Gorilla COI Sequences
+
+Human COI length: 1542 bp
+Gorilla COI length: 1551 bp
+Comparison length: 1542 bp
+Nucleotide differences: 168
+Percentage difference: 10.89%
+
+Pairwise Comparison of Chimpanzee and Gorilla COI Sequences
+
+Chimpanzee COI length: 1542 bp
+Gorilla COI length: 1551 bp
+Comparison length: 1542 bp
+Nucleotide differences: 155
+Percentage difference: 10.05%
+
+Pairwise Comparison of Humans and Orangutan CO1 Sequences
+
+Human COI length: 1542 bp
+Orangutan COI length: 1543 bp
+Comparison length: 1542 bp
+Nucleotide differences: 202
+Percentage difference: 13.10%
+
+Pairwise Comparison of Chimpanzee and Orangutan CO1 Sequences
+
+Chimpanzee COI: 1542 bp
+Orangutan COI: 1543 bp
+Comparison length: 1542 bp
+Nucleotide differences: 219
+Percentage difference: 14.20%
+
+Pairwise Comparison of Gorilla and Orangutan CO1 Sequences
+
+Gorilla COI length: 1551 bp
+Orangutan COI length: 1543 bp
+Comparison length: 1543 bp
+Nucleotide differences: 237
+Percentage difference: 15.36%
+
+Pairwise Comparison of Human and Rhesus CO1 Sequences
+
+Human COI length: 1542
+Rhesus macaque COI length: 1569
+Comparison length: 1542
+Number of nucleotide differences: 297
+Percentage difference: 19.26%
+
+Pairwise Comparison of Chimpanzee and Rhesus CO1 Sequences
+
+Chimpanzee COI length: 1542
+Rhesus macaque COI length: 1569
+Comparison length: 1542
+Number of nucleotide differences: 293
+Percentage difference: 19.00%
+
+Pairwise Comparison of Gorilla and Rhesus CO1 Sequences
+
+Gorilla COI length: 1551
+Rhesus macaque COI length: 1569
+Comparison length: 1551
+Number of nucleotide differences: 301
+Percentage difference: 19.41%
+
+Pairwise Comparison of Orangutan and Rhesus CO1 Sequences
+
+Orangutan COI length: 1543
+Rhesus macaque COI length: 1569
+Comparison length: 1543
+Number of nucleotide differences: 279
+Percentage difference: 18.08%
+
+Pairwise Comparison of Human and Mouse CO1 Sequences
+
+Human COI length: 1542
+Mouse COI length: 1545
+Comparison length: 1542
+Number of nucleotide differences: 343
+Percentage difference: 22.24%
+
+Pairwise Comparison of Chimpanzee and Mouse CO1 Sequences
+
+Chimpanzee COI length: 1542
+Mouse COI length: 1545
+Comparison length: 1542
+Number of nucleotide differences: 353
+Percentage difference: 22.89%
+
+Pairwise Comparison of Gorilla and Mouse CO1 Sequences
+
+Gorilla COI length: 1551
+Mouse COI length: 1545
+Comparison length: 1545
+Number of nucleotide differences: 355
+Percentage difference: 22.98%
+
+Pairwise Comparison of Orangutan and Mouse CO1 Sequences
+
+Orangutan COI length: 1543
+Mouse COI length: 1545
+Comparison length: 1543
+Number of nucleotide differences: 365
+Percentage difference: 23.66%
+
+Pairwise Comparison of Rhesus and Mouse CO1 Sequences
+
+Rhesus macaque COI length: 1569
+Mouse COI length: 1545
+Comparison length: 1545
+Number of nucleotide differences: 359
+Percentage difference: 23.24%
+
+7. Discussion
+The analysis of mitochondrial COI sequences showed clear differences among the six selected mammalian species. The pairwise evolutionary distances were lowest among the closely related great apes and increased as more distantly related species were compared. The smallest distance in the MEGA analysis was between Homo sapiens and Pan troglodytes (0.0922), while the distances between the primates and Mus musculus were the largest, ranging from 0.2859 to 0.3077. This pattern indicates that COI sequence variation contains useful information for distinguishing evolutionary relationships among the species included in this dataset.
+
+The phylogenetic analyses produced a consistent overall topology using both Maximum Likelihood (ML) and Neighbor-Joining (NJ). In both trees, Pan troglodytes and Gorilla gorilla formed a group, with Homo sapiens joining this group, followed by Pongo abelii. The more distant placement of Macaca mulatta and Mus musculus was also consistent with the evolutionary-distance results. The agreement between two different tree-building methods provides additional support for the overall pattern observed in the dataset.
+
+Bootstrap analysis showed strong support for some relationships. The node grouping Homo sapiens with the chimpanzee–gorilla group received 100% bootstrap support in both ML and NJ analyses. The node connecting Pongo abelii with these three great apes received 99% support in both analyses. The chimpanzee–gorilla grouping received 69% support in the ML tree and 54% in the NJ tree, indicating lower support for this particular node compared with the deeper relationships.
+
+The nucleotide composition analysis also showed variation among the species. GC content ranged from 39.87% in Mus musculus to 47.44% in Pongo abelii. The five primate sequences had relatively similar GC contents compared with the mouse sequence, which showed noticeably lower GC content. These differences demonstrate that simple sequence-composition measurements can provide additional quantitative information alongside phylogenetic analysis.
+
+Overall, the results demonstrate that mitochondrial COI sequences can be used to investigate patterns of evolutionary divergence among selected mammals. However, the results should be interpreted specifically for the COI mitochondrial locus used in this study. A single mitochondrial gene does not necessarily represent the complete evolutionary history of species, and therefore the tree should not be considered a definitive species-wide phylogeny. Analysis of additional nuclear genes or genome-wide data would provide a broader basis for reconstructing evolutionary relationships.
+
+8. Conclusion
+This study demonstrated that mitochondrial COI sequences can be used to investigate evolutionary relationships among selected mammalian species. Sequence composition analysis showed variation in nucleotide frequencies and GC content, while the MEGA evolutionary-distance analysis showed smaller distances among closely related primates and larger distances involving the mouse. Both Maximum Likelihood and Neighbor-Joining analyses produced a consistent overall phylogenetic pattern, with strong bootstrap support for several major relationships. These findings show how computational sequence analysis can combine quantitative measurements with phylogenetic methods to investigate biological relationships. However, because the study used only one mitochondrial gene, the results represent variation at the COI locus rather than the complete evolutionary history of the species.
+
+9. Limitations
+This study has several limitations. First, the analysis was based on a single mitochondrial gene, COI, so the results represent evolutionary variation at this particular locus and may not fully reflect the evolutionary history of the species. Second, the dataset included only six mammalian species, so the findings cannot be generalized to all mammals. Third, the COI sequences differed slightly in length, and although multiple sequence alignment was used for the final phylogenetic and distance analyses, sequence alignment can introduce uncertainty in some regions. Finally, no model-selection analysis was performed to identify the statistically best-fitting nucleotide substitution model. Future studies could improve the analysis by including more species, additional mitochondrial or nuclear genes, and larger genomic datasets.
+
+10. References
+National Center for Biotechnology Information (NCBI). GenBank: The NIH genetic sequence database.
+Used for retrieving mitochondrial genome sequences and annotated COI/COX1 gene information.
+Kumar, S., Stecher, G., Li, M., Knyaz, C., & Tamura, K. (2018). MEGA X: Molecular Evolutionary Genetics Analysis across computing platforms. Molecular Biology and Evolution, 35(6), 1547–1549.
+Tamura, K., Stecher, G., & Kumar, S. (2021). MEGA11: Molecular Evolutionary Genetics Analysis version 11. Molecular Biology and Evolution, 38(7), 3022–3027.
+Biopython Project. Biopython: Computational molecular biology tools for Python.
+Used for reading, extracting, analyzing, and processing DNA sequences.
+Ratnasingham, S., & Hebert, P. D. N. (2007). BOLD: The Barcode of Life Data System. Molecular Ecology Notes, 7(3), 355–364.
+
+11. Learning Notes
+8th Sep 2026
+Today I started a bioinformatics project involving comparative DNA sequence analysis and phylogenetic reconstruction. 
+I learned that mitochondrial COI sequences can be compared among species to investigate evolutionary relationships. 
+The project will use NCBI for sequence data, Python/Biopython for computational analysis, and MEGA 11 for alignment and phylogenetic analysis.
+Preliminary sequence analysis — Homo sapiens
+
+The mitochondrial COI sequence of Homo sapiens analyzed in this project was 1,542 nucleotides long. The sequence contained 419 adenine (27.17%), 410 thymine (26.59%), 250 guanine (16.21%), and 463 cytosine (30.03%) nucleotides. The calculated GC content was 46.24%.
+
+Under Learning Notes, add:
+
+I learned how to use Biopython to calculate nucleotide composition and GC content from a DNA sequence. I also learned that nucleotide composition alone cannot establish evolutionary relationships; sequence comparison and phylogenetic analysis are required.
+Through this project, I developed practical experience in handling biological sequence data and applying basic bioinformatics methods. I learned how to retrieve annotated mitochondrial sequences from NCBI, identify the COI gene using accession numbers and genomic coordinates, and extract specific sequences using Python and Biopython. I also learned how to calculate nucleotide composition and GC content and compare DNA sequences quantitatively. Using MEGA, I gained practical experience with multiple sequence alignment, evolutionary-distance analysis, and phylogenetic tree construction using Maximum Likelihood and Neighbor-Joining methods. I also learned the importance of bootstrap analysis when interpreting the reliability of phylogenetic relationships. Most importantly, the project helped me understand how computational analysis can be used to investigate biological and evolutionary questions using real sequence data.
